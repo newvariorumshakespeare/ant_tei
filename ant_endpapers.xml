@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE container [
+<!ENTITY hellip     " &#x2E;&#xA0;&#x2E;&#xA0;&#x2E; ">
+<!ENTITY inked     "&#x2759;">
+<!ENTITY caret     "&#x2038;">
+<!ENTITY minus     "&#x2212;">
+<!ENTITY plus     "&#x002B;">
+<!ENTITY shy     "&#x00AD;">
+<!ENTITY sigrange     "&#x002D;">
+<!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">
+<!ENTITY verbar     "&#x2002;&#x007C;&#x2002;">
+]>
+
+<container xmlns="http://www.mla.org/NVSns">
+
+<div type="endpapers" xml:id="div_endpapers">
+
+<div type="end_editions" xml:id="div_end_editions">
+
+<head>Editions Collated</head>
+
+<p rend="italic">The following chronological lists of sigla represent the lists (see <ptr targType="listWit" target="#listwit_editions #listwit_other"/>) of editions and related works whose readings are recorded in the textual notes. The form and scope of the notes are explained (see <ptr targType="anchor" target="#anchor_0002-a" targetEnd="#anchor_0002-b"/>).</p>
+
+<list xml:id="list_end_001">
+    <item><siglum>F1</siglum><date>1623</date></item>
+    <item><siglum>F2</siglum><date>1632</date></item>
+    <item><siglum>F3</siglum><date>1663–4</date></item>
+    <item><siglum>F4</siglum><date>1685</date></item>
+    <item><siglum rend="smcaps">rowe1</siglum><date>1709</date></item>
+    <item><siglum rend="smcaps">rowe2</siglum><date>1709</date></item>
+    <item><siglum rend="smcaps">rowe3</siglum><date>1714</date></item>
+    <item><siglum rend="smcaps">pope1</siglum><date>1723</date></item>
+    <item><siglum rend="smcaps">pope2</siglum><date>1728</date></item>
+    <item><siglum rend="smcaps">theo1</siglum><date>1733</date></item>
+    <item><siglum rend="smcaps">theo2</siglum><date>1740</date></item>
+    <item><siglum rend="smcaps">han1</siglum><date>1744</date></item>
+    <item><siglum rend="smcaps">warb</siglum><date>1747</date></item>
+    <item><siglum rend="smcaps">theo4</siglum><date>1757</date></item>
+    <item><siglum rend="smcaps">john1</siglum><date>1765</date></item>
+    <item><siglum rend="smcaps">cap</siglum><date>1768</date></item>
+    <item><siglum>v1773</siglum><date></date></item>
+    <item><siglum>v1778</siglum><date></date></item>
+    <item><siglum rend="smcaps">mal</siglum><date>1790</date></item>
+    <item><siglum rend="smcaps">rann</siglum><date>1791–</date></item>
+    <item><siglum>v1793</siglum><date></date></item>
+    <item><siglum>v1803</siglum><date></date></item>
+    <item><siglum>v1821</siglum><date></date></item>
+    <item><siglum rend="smcaps">sing1</siglum><date>1826</date></item>
+    <item><siglum rend="smcaps">knt1</siglum><date>1841</date></item>
+    <item><siglum rend="smcaps">col1</siglum><date>1843</date></item>
+    <item><siglum rend="smcaps">col2</siglum><date>1853</date></item>
+    <item><siglum rend="smcaps">hud1</siglum><date>1855</date></item>
+    <item><siglum rend="smcaps">sing2</siglum><date>1856</date></item>
+    <item><siglum rend="smcaps">dyce1</siglum><date>1857</date></item>
+    <item><siglum rend="smcaps">col3</siglum><date>1858</date></item>
+    <item><siglum rend="smcaps">stau</siglum><date>1859</date></item>
+    <item><siglum rend="smcaps">wh1</siglum><date>1861</date></item>
+    <item><siglum rend="smcaps">glo</siglum><date>1864</date></item>
+    <item><siglum rend="smcaps">ktly</siglum><date>1864</date></item>
+    <item><siglum rend="smcaps">hal</siglum><date>1865</date></item>
+    <item><siglum rend="smcaps">dyce2</siglum><date>1866</date></item>
+    <item><siglum rend="smcaps">cam1</siglum><date>1866</date></item>
+    <item><siglum rend="smcaps">col4</siglum><date>1877</date></item>
+    <item><siglum rend="smcaps">hud2</siglum><date>1881</date></item>
+    <item><siglum rend="smcaps">wh2</siglum><date>1883</date></item>
+    <item><siglum rend="smcaps">oxf1</siglum><date>[1891]</date></item>
+    <item><siglum rend="smcaps">nlsn</siglum><date>1906</date></item>
+    <item><siglum rend="smcaps">ard1</siglum><date>1906</date></item>
+    <item><siglum><hi rend="smcaps">rid</hi>a</siglum><date>1935</date></item>
+    <item><siglum rend="smcaps">kit1</siglum><date>1936</date></item>
+    <item><siglum><hi rend="smcaps">cam3</hi>a</siglum><date>1950</date></item>
+    <item><siglum rend="smcaps">alex</siglum><date>1951</date></item>
+    <item><siglum><hi rend="smcaps">rid</hi>b</siglum><date>1954</date></item>
+    <item><siglum rend="smcaps">sis</siglum><date>1954</date></item>
+    <item><siglum rend="smcaps">ard2</siglum><date>1954</date></item>
+    <item><siglum><hi rend="smcaps">cam3</hi>b</siglum><date>1964</date></item>
+    <item><siglum rend="smcaps">evns</siglum><date>1974</date></item>
+</list>
+
+<p rend="italic">Unusual readings and corrections are occasionally given from the following:</p>
+
+<list xml:id="list_end_002">
+    <item><siglum>mF2J</siglum><date>–1700</date></item>
+    <item><siglum>mF4Q</siglum><date>1685–</date></item>
+    <item><siglum>mF4FL33</siglum><date>–1723</date></item>
+    <item><siglum>m<hi rend="smcaps">pope</hi></siglum><date>–1723</date></item>
+    <item><siglum>m<hi rend="smcaps">theo</hi>1</siglum><date>1723–33</date></item>
+    <item><siglum>m<hi rend="smcaps">tby</hi>2</siglum><date>1723–33</date></item>
+    <item><siglum>m<hi rend="smcaps">theo</hi>2</siglum><date>1729–34</date></item>
+    <item><siglum>m<hi rend="smcaps">theo</hi>3</siglum><date>1729–36</date></item>
+    <item><siglum>m<hi rend="smcaps">long</hi></siglum><date>–1733?</date></item>
+    <item><siglum>m<hi rend="smcaps">tby</hi>3</siglum><date>1733–47</date></item>
+    <item><siglum rend="smcaps">han2</siglum><date>1745</date></item>
+    <item><siglum rend="smcaps">han47</siglum><date>1747</date></item>
+    <item><siglum>m<hi rend="smcaps">tby</hi>4</siglum><date>1747–53</date></item>
+    <item><siglum>m<hi rend="smcaps">warb</hi></siglum><date>1747–79</date></item>
+    <item><siglum>m<hi rend="smcaps">cap</hi>2</siglum><date>1751</date></item>
+    <item><siglum rend="smcaps">theo3</siglum><date>1752</date></item>
+    <item><siglum>mF2FL21</siglum><date>1754–65</date></item>
+    <item><siglum rend="smcaps">gar</siglum><date>1758</date></item>
+    <item><siglum>mF2FL20</siglum><date>–1765</date></item>
+    <item><siglum rend="smcaps">john2</siglum><date>1765</date></item>
+    <item><siglum rend="smcaps">john3</siglum><date>1768</date></item>
+    <item><siglum rend="smcaps">han3</siglum><date>1771</date></item>
+    <item><siglum rend="smcaps">capn</siglum><date>1779–83 [1774]</date></item>
+    <item><siglum>v1785</siglum><date></date></item>
+    <item><siglum>m<hi rend="smcaps">tyr</hi></siglum><date>–1786</date></item>
+    <item><siglum>m<hi rend="smcaps">stv</hi>2</siglum><date>1791–1802</date></item>
+    <item><siglum>mF2TCC</siglum><date>–1800</date></item>
+    <item><siglum rend="smcaps">maun</siglum><date>1839</date></item>
+    <item><siglum>m<hi rend="smcaps">col</hi>1</siglum><date>–1853</date></item>
+    <item><siglum rend="smcaps">colne</siglum><date>1853</date></item>
+    <item><siglum rend="smcaps">del2</siglum><date>1856</date></item>
+    <item><siglum rend="smcaps">blum</siglum><date>1870</date></item>
+    <item><siglum rend="smcaps">htr</siglum><date>1870</date></item>
+    <item><siglum rend="smcaps">del4</siglum><date>1872</date></item>
+    <item><siglum rend="smcaps">hald</siglum><date>1873</date></item>
+    <item><siglum rend="smcaps">word1</siglum><date>1883</date></item>
+    <item><siglum rend="smcaps">irv</siglum><date>1889</date></item>
+    <item><siglum rend="smcaps">cam2</siglum><date>1892</date></item>
+    <item><siglum rend="smcaps">rlf1</siglum><date>1895</date></item>
+    <item><siglum rend="smcaps">ev1</siglum><date>1899</date></item>
+    <item><siglum>v1907</siglum><date></date></item>
+    <item><siglum rend="smcaps">bayf</siglum><date>1920</date></item>
+    <item><siglum rend="smcaps">boas</siglum><date>1935</date></item>
+    <item><siglum rend="smcaps">ev2</siglum><date>1935</date></item>
+    <item><siglum rend="smcaps">pen1</siglum><date>1937</date></item>
+    <item><siglum rend="smcaps">n&amp;h</siglum><date>1942</date></item>
+    <item><siglum rend="smcaps">yal2</siglum><date>1955</date></item>
+    <item><siglum rend="smcaps">sisnr</siglum><date>1956</date></item>
+    <item><siglum rend="smcaps">mun</siglum><date>1957</date></item>
+    <item><siglum rend="smcaps">cln2</siglum><date>1962</date></item>
+    <item><siglum rend="smcaps">pel2</siglum><date>1969</date></item>
+</list>
+
+</div>
+
+<div type="end_symbols" xml:id="div_end_symbols">
+
+<p rend="italic">Symbols used in the textual notes:</p>
+
+<list xml:id="list_end_003">
+    <item><abbr>&caret;</abbr><expan>punctuation missing or omitted</expan></item>
+    <item><abbr>&swdash;</abbr><expan>verbal form of the lemma unchanged (while punctuation varies)</expan></item>
+    <item><abbr>&sigrange;</abbr><expan>(between two sigla) all fully collated eds. between and including those indicated by the two sigla</expan></item>
+    <item><abbr>&plus;</abbr><expan>(after a siglum) and all succeeding fully collated eds.</expan></item>
+    <item>(<abbr>&minus;</abbr>)<expan>all sigla following the minus sign within parentheses indicate eds. that agree, not with the variant, but with the Variorum text (i.e., with <siglum>F1</siglum>)</expan></item>
+</list>
+
+</div>
+
+<div type="end_sigla" xml:id="div_end_sigla">
+
+<head>Sigla and Symbols</head>
+
+<p rend="italic">Sigla in parentheses refer to works only occasionally quoted; they are listed on the opposite page below the list of editions collated. For full descriptions of the works, see <ptr targType="listWit" target="#listwit_editions #listwit_other"/>.</p>
+
+<list xml:id="list_end_004">
+    <item><abbr><hi rend="smcaps">alex</hi></abbr>: <expan>Alexander, 1951</expan></item>
+    <item><abbr><hi rend="smcaps">ard</hi></abbr>: <expan><hi rend="smcaps">ard</hi>1 &amp; <hi rend="smcaps">ard</hi>2</expan></item>
+    <item><abbr><hi rend="smcaps">ard</hi>1</abbr>: <expan>Case, 1906</expan></item>
+    <item><abbr><hi rend="smcaps">ard</hi>2</abbr>: <expan>Ridley, 1954</expan></item>
+    <item><abbr>(<hi rend="smcaps">bayf</hi>)</abbr>: <expan>Bayfield, 1920</expan></item>
+    <item><abbr>(<hi rend="smcaps">blum</hi>)</abbr>: <expan>Blumhof, 1870</expan></item>
+    <item><abbr>(<hi rend="smcaps">boas</hi>)</abbr>: <expan>Boas, 1935</expan></item>
+    <item><abbr><hi rend="smcaps">cam</hi></abbr>: <expan><hi rend="smcaps">cam</hi>1, <hi rend="smcaps">cam3</hi>a, &amp; <hi rend="smcaps">cam3</hi>b</expan></item>
+    <item><abbr><hi rend="smcaps">cam</hi>1</abbr>: <expan>Clark &amp; Wright, 1866</expan></item>
+    <item><abbr>(<hi rend="smcaps">cam</hi>2)</abbr>: <expan>Wright, 1892</expan></item>
+    <item><abbr><hi rend="smcaps">cam</hi>3</abbr>: <expan><hi rend="smcaps">cam3</hi>a &amp; <hi rend="smcaps">cam3</hi>b</expan></item>
+    <item><abbr><hi rend="smcaps">cam3</hi>a, 3b</abbr>: <expan>Wilson, 1950, 1964 (rpt.)</expan></item>
+    <item><abbr><hi rend="smcaps">cap</hi></abbr>: <expan>Capell, 1768</expan></item>
+    <item><abbr>(<hi rend="smcaps">capn</hi>)</abbr>: <expan>Capell, 1779–83 [1774]</expan></item>
+    <item><abbr>(<hi rend="smcaps">cln</hi>2)</abbr>: <expan>Houghton, 1962</expan></item>
+    <item><abbr><hi rend="smcaps">col</hi></abbr>: <expan><hi rend="smcaps">col</hi>1, <hi rend="smcaps">col</hi>2, <hi rend="smcaps">col</hi>3, &amp; <hi rend="smcaps">col</hi>4</expan></item>
+    <item><abbr><hi rend="smcaps">col</hi>1, 2, 3, 4</abbr>: <expan>Collier, 1843, 1853, 1858, 1877</expan></item>
+    <item><abbr>(<hi rend="smcaps">colne</hi>)</abbr>: <expan>Collier, <hi rend="italic">Notes</hi>, 1853</expan></item>
+    <item><abbr>(<hi rend="smcaps">del</hi>)</abbr>: <expan><hi rend="smcaps">del</hi>2 &amp; <hi rend="smcaps">del</hi>4</expan></item>
+    <item><abbr>(<hi rend="smcaps">del</hi>2, 4)</abbr>: <expan>Delius, 1856, 1872</expan></item>
+    <item><abbr><hi rend="smcaps">dyce</hi></abbr>: <expan><hi rend="smcaps">dyce</hi>1 &amp; <hi rend="smcaps">dyce</hi>2</expan></item>
+    <item><abbr><hi rend="smcaps">dyce</hi>1, 2</abbr>: <expan>Dyce, 1857, 1866</expan></item>
+    <item><abbr>(<hi rend="smcaps">ev</hi>1)</abbr>: <expan>Herford, 1899</expan></item>
+    <item><abbr>(<hi rend="smcaps">ev</hi>2)</abbr>: <expan>Pink, 1935</expan></item>
+    <item><abbr><hi rend="smcaps">evns</hi></abbr>: <expan>Evans, 1974</expan></item>
+    <item><abbr>Ff</abbr>: <expan>F1, F2, F3, &amp; F4</expan></item>
+    <item><abbr>F1, 2, 3, 4</abbr>: <expan>Folios, 1623, 1632, 1663–4, 1685</expan></item>
+    <item><abbr>(<hi rend="smcaps">gar</hi>)</abbr>: <expan>Garrick &amp; Capell, 1758</expan></item>
+    <item><abbr><hi rend="smcaps">glo</hi></abbr>: <expan>Clark &amp; Wright, 1864</expan></item>
+    <item><abbr><hi rend="smcaps">hal</hi></abbr>: <expan>Halliwell, 1865</expan></item>
+    <item><abbr>(<hi rend="smcaps">hald</hi>)</abbr>: <expan>Halliday, 1873</expan></item>
+    <item><abbr><hi rend="smcaps">han</hi>1, (2), (3)</abbr>: <expan>Hanmer, 1744, 1745, 1771</expan></item>
+    <item><abbr>(<hi rend="smcaps">han</hi>47)</abbr>: <expan>Hanmer, 1747</expan></item>
+    <item><abbr>(<hi rend="smcaps">htr</hi>)</abbr>: <expan>Hunter, 1870</expan></item>
+    <item><abbr><hi rend="smcaps">hud</hi></abbr>: <expan><hi rend="smcaps">hud</hi>1 &amp; <hi rend="smcaps">hud</hi>2</expan></item>
+    <item><abbr><hi rend="smcaps">hud</hi>1, 2</abbr>: <expan>Hudson, 1855, 1881</expan></item>
+    <item><abbr>(<hi rend="smcaps">irv</hi>)</abbr>: <expan>Irving &amp; Marshall, 1889</expan></item>
+    <item><abbr><hi rend="smcaps">john</hi>1, (2), (3)</abbr>: <expan>Johnson, 1765, 1765, 1768</expan></item>
+    <item><abbr><hi rend="smcaps">kit</hi>1</abbr>: <expan>Kittredge, 1936</expan></item>
+    <item><abbr><hi rend="smcaps">knt</hi>1</abbr>: <expan>Knight, 1841</expan></item>
+    <item><abbr><hi rend="smcaps">ktly</hi></abbr>: <expan>Keightley, 1864</expan></item>
+    <item><abbr><hi rend="smcaps">mal</hi></abbr>: <expan>Malone, 1790</expan></item>
+    <item><abbr>(<hi rend="smcaps">maun</hi>)</abbr>: <expan>Maunder, 1839</expan></item>
+    <item><abbr>(m<hi rend="smcaps">cap</hi>2)</abbr>: <expan>Capell, –1751</expan></item>
+    <item><abbr>(m<hi rend="smcaps">col</hi>1)</abbr>: <expan>Collier, –1853</expan></item>
+    <item><abbr>(mF2FL20)</abbr>: <expan>Anon., –1765</expan></item>
+    <item><abbr>(mF2FL21)</abbr>: <expan>Anon., 1754–65</expan></item>
+    <item><abbr>(mF2J)</abbr>: <expan>Anon., –1700</expan></item>
+    <item><abbr>(mF2TCC)</abbr>: <expan>Anon., –1800</expan></item>
+    <item><abbr>(mF4FL33)</abbr>: <expan>Anon., –1723</expan></item>
+    <item><abbr>(mF4Q)</abbr>: <expan>Anon., 1685–</expan></item>
+    <item><abbr>(m<hi rend="smcaps">long</hi>)</abbr>: <expan>Long, –1733?</expan></item>
+    <item><abbr>(m<hi rend="smcaps">pope</hi>)</abbr>: <expan>Pope, –1723</expan></item>
+    <item><abbr>(m<hi rend="smcaps">stv</hi>2)</abbr>: <expan>Steevens &amp; Reed, 1791–1802</expan></item>
+    <item><abbr>(m<hi rend="smcaps">tby</hi>2, 3, 4)</abbr>: <expan>Thirlby, 1723–33, 1733–47, 1747–53</expan></item>
+    <item><abbr>(m<hi rend="smcaps">theo</hi>1, 2, 3)</abbr>: <expan>Theobald, 1723–33, 1729–34, 1729–36</expan></item>
+    <item><abbr>(m<hi rend="smcaps">tyr</hi>)</abbr>: <expan>Tyrwhitt, –1786</expan></item>
+    <item><abbr>(<hi rend="smcaps">mun</hi>)</abbr>: <expan>Munro, 1957</expan></item>
+    <item><abbr>(m<hi rend="smcaps">warb</hi>)</abbr>: <expan>Warburton, 1747–79</expan></item>
+    <item><abbr>(<hi rend="smcaps">n&amp;h</hi>)</abbr>: <expan>Neilson-Hill, 1942</expan></item>
+    <item><abbr><hi rend="smcaps">nlsn</hi></abbr>: <expan>Neilson, 1906</expan></item>
+    <item><abbr><hi rend="smcaps">oxf</hi>1</abbr>: <expan>Craig, [1891]</expan></item>
+    <item><abbr>(<hi rend="smcaps">pel</hi>2)</abbr>: <expan>Mack, 1969</expan></item>
+    <item><abbr>(<hi rend="smcaps">pen</hi>1)</abbr>: <expan>Harrison, 1937</expan></item>
+    <item><abbr><hi rend="smcaps">pope</hi></abbr>: <expan><hi rend="smcaps">pope</hi>1 &amp; <hi rend="smcaps">pope</hi>2</expan></item>
+    <item><abbr><hi rend="smcaps">pope</hi>1, 2</abbr>: <expan>Pope, 1723, 1728</expan></item>
+    <item><abbr><hi rend="smcaps">rann</hi></abbr>: <expan>Rann, 1791–</expan></item>
+    <item><abbr><hi rend="smcaps">rid</hi></abbr>: <expan><hi rend="smcaps">rid</hi>a &amp; <hi rend="smcaps">rid</hi>b</expan></item>
+    <item><abbr><hi rend="smcaps">rid</hi>a, b</abbr>: <expan>Ridley, 1935, 1954 (rpt.)</expan></item>
+    <item><abbr>(<hi rend="smcaps">rlf</hi>1)</abbr>: <expan>Rolfe, 1895</expan></item>
+    <item><abbr><hi rend="smcaps">rowe</hi></abbr>: <expan><hi rend="smcaps">rowe</hi>1, <hi rend="smcaps">rowe</hi>2, &amp; <hi rend="smcaps">rowe</hi>3</expan></item>
+    <item><abbr><hi rend="smcaps">rowe</hi>1, 2, 3</abbr>: <expan>Rowe, 1709, 1709, 1714</expan></item>
+    <item><abbr><hi rend="smcaps">sing</hi></abbr>: <expan><hi rend="smcaps">sing</hi>1 &amp; <hi rend="smcaps">sing</hi>2</expan></item>
+    <item><abbr><hi rend="smcaps">sing</hi>1, 2</abbr>: <expan>Singer, 1826, 1856</expan></item>
+    <item><abbr><hi rend="smcaps">sis</hi></abbr>: <expan>Sisson, 1954</expan></item>
+    <item><abbr>(<hi rend="smcaps">sisnr</hi>)</abbr>: <expan>Sisson, 1956</expan></item>
+    <item><abbr><hi rend="smcaps">stau</hi></abbr>: <expan>Staunton, 1859</expan></item>
+    <item><abbr><hi rend="smcaps">theo</hi></abbr>: <expan><hi rend="smcaps">theo</hi>1, <hi rend="smcaps">theo</hi>2, (<hi rend="smcaps">theo</hi>3), &amp; <hi rend="smcaps">theo</hi>4</expan></item>
+    <item><abbr><hi rend="smcaps">theo</hi>1, 2, (3), 4</abbr>: <expan>Theobald, 1733, 1740, 1752, 1757</expan></item>
+    <item><abbr>v1773, v1778</abbr>: <expan>Johnson &amp; Steevens, 1773, 1778</expan></item>
+    <item><abbr>(v1785)</abbr>: <expan>Johnson, Steevens, &amp; Reed, 1785</expan></item>
+    <item><abbr>v1793</abbr>: <expan>Steevens &amp; Reed, 1793</expan></item>
+    <item><abbr>v1803</abbr>: <expan>Reed, 1803</expan></item>
+    <item><abbr>v1821</abbr>: <expan>Boswell, 1821</expan></item>
+    <item><abbr>(v1907)</abbr>: <expan>Furness, 1907</expan></item>
+    <item><abbr><hi rend="smcaps">warb</hi></abbr>: <expan>Warburton, 1747</expan></item>
+    <item><abbr><hi rend="smcaps">wh</hi></abbr>: <expan><hi rend="smcaps">wh</hi>1 &amp; <hi rend="smcaps">wh</hi>2</expan></item>
+    <item><abbr><hi rend="smcaps">wh</hi>1, 2</abbr>: <expan>White, 1861, 1883</expan></item>
+    <item><abbr>(<hi rend="smcaps">word</hi>1)</abbr>: <expan>Wordsworth, 1883</expan></item>
+    <item><abbr>(<hi rend="smcaps">yal</hi>2)</abbr>: <expan>Phialas, 1955</expan></item>
+</list>
+
+</div>
+
+</div>
+
+</container>
